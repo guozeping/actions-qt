@@ -1,5 +1,4 @@
 #include <QGuiApplication>
-#include <QDeubg>
 #include <QQmlApplicationEngine>
 
 int main(int argc, char *argv[])
